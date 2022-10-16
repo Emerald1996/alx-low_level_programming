@@ -18,7 +18,7 @@ int main(void)
 		putchar((num % 10) + '0');
 	}
 
-	for (la = 'a'; la < 'f'; la++)
+	for (la = 'a'; la < 'g'; la++)
 	{
 		putchar(la);
 	}
